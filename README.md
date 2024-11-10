@@ -15,3 +15,5 @@ As técnicas e tecnologias utilizadas pra isso são:
 - `HTML`: criação dos elementos da tela;
 - `CSS`: estilização da aplicação;
 - `JavaScript`: construção de elementos dinâmicos através da manipulação do DOM.
+
+link para teste: https://lucasdiasa.github.io/PaginaDinamica.JS/
